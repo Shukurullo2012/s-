@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0p;
+    box-sizing: border-box;
+}
+.header{
+    padding-top: 22px;
+    background-color: #F3D7B7;
+}
+.container{
+    max-width: 1350px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header__nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.header__list{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.hero_wrapper{
+
+    padding: 100px;
+    gap: 500px;
+}
+.werty{
+    width: 500px;
+    height: 500;
+}
+
+
+  
+  .container {
+    text-align: center;
+    max-width: 600px;
+
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    color: #000000; 
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1em;
+    color: #333333;
+    margin-bottom: 30px;
+  }
+  
+  button {
+    font-size: 1em;
+    padding: 10px 20px;
+    background-color: #007f4f; 
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #005f3b;
+  }
+
+.class12{
+    width:  400px;
+    height: 400px;
+    margin-left: 550px;
+}
+.caa{
+    padding: 35px;
+    text-align: center;
+}
+.divvv{
+    display: flex;
+}
+.wert{
+    background-color: #F3D7B7;
+}
+.container11 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    width: 80px;
+    height: auto;
+}
+
+.card .info {
+    flex: 1;
+}
+
+.card .info h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.card .info p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #666;
+}
+.wertg{
+    text-align: center;
+}
+.wed{
+    background-color: #F3D7B7
+}
+.container1111{
+    display: flex;
+}
